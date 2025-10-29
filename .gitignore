@@ -1,0 +1,25 @@
+# Simulation outputs
+*.vvp
+*.vcd
+*.out
+
+# Waveform save files
+*.gtkw
+*.sav
+
+# Log files
+*.log
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.code-workspace
